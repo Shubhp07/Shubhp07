@@ -1,4 +1,24 @@
-## Hi there 👋
+👋 Hey there! I'm Shubham Patil
+
+⚙️ A Full Stack Developer who loves turning ideas into real-world applications.
+
+🧠 I enjoy:
+- Designing REST APIs
+- Building secure authentication systems
+- Writing clean, maintainable code
+
+🛠️ Tech I work with:
+
+Java | Spring Boot | Node.js | React | Angular  
+MySQL | MongoDB | Git | Docker | AWS  
+
+🚀 Currently:
+- Building production-style full stack projects
+- Exploring cloud deployment & DevOps basics
+- Preparing for developer roles
+  
+✨ Always learning. Always building.
+
 
 <!--
 **Shubhp07/Shubhp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
